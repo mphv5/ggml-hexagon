@@ -153,3 +153,4 @@ Pls refer to [about ggml-hexagon](https://github.com/zhouwg/ggml-hexagon/discuss
 ## PR in upstream
 
 Pls refer to [PR-27642](https://github.com/ggml-org/llama.cpp/pull/27642)
+
